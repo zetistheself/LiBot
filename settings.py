@@ -37,4 +37,4 @@ reply_text = {
 }
 
 
-TOKEN = "6931954722:AAHcZ8wGDw3uE81pBDrV2Bmwfx2_W5F-4rw"
+TOKEN = ""
